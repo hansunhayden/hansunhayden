@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Han.
 - 👀 I’m interested in Generative Model & Domain Adaptation.
-- 🌱 I’m currently in my Ph.D.'s study, working on domain adaptation.
+- 🌱 I’m currently in my Ph.D.'s study at EPFL, working on domain adaptation.
 - 📫 How to reach me: han.sun@epfl.ch
 
 <!---
